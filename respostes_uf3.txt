@@ -1,0 +1,19 @@
+Preguntas UF3:
+Pregunta 11 -->, 1
+Pregunta 12 -->, 0
+Pregunta 13 -->, 1
+Pregunta 14 -->, 0
+Pregunta 15 -->, 1
+Pregunta 16 -->, 1
+Pregunta 17 -->, 1
+Pregunta 18 -->, 0
+Pregunta 19 -->, 0
+Pregunta 20 -->, 1
+Pregunta 21 -->, 1
+Pregunta 22 -->, 1
+Pregunta 23 -->, 0
+Pregunta 24 -->, 0
+Pregunta 25 -->, 1
+Pregunta 26 -->, 1
+Nota final sobre 10: 6.25
+Total de preguntas hechas: 10 de 16
